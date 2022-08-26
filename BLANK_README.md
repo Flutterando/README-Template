@@ -257,7 +257,7 @@ Flutterando Community
 ## Acknowledgements 
 
 
-Thank you to all the people who contributed to this project, whitout you this project would not be here today.
+Thank you to all the people who contributed to this project, whithout you this project would not be here today.
 
 <br>
 
