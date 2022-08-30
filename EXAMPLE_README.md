@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="https://pub.dev/packages/asuka">
-    <img src="example/logo.png" alt="Logo" width="180">
+    <img src="readme_assets/readme_example_assets/logo-readme-example.png" alt="Logo" width="180">
   </a>
 
   <p align="center">
@@ -55,6 +55,8 @@ Social - GitHub Forks, Github Org's Stars (if using Flutterando as the main org)
 
 <br>
 
+
+--- 
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -71,6 +73,8 @@ Social - GitHub Forks, Github Org's Stars (if using Flutterando as the main org)
   </ol>
 </details>
 
+---
+
 <br>
 
 <!-- ABOUT THE PROJECT -->
@@ -81,7 +85,7 @@ Social - GitHub Forks, Github Org's Stars (if using Flutterando as the main org)
 
 <br>
 <Center>
-<img src="example/Asuka.gif" alt="Asuka package working gif" width="400">
+<img src="readme_assets/readme_example_assets/project-readme-example.gif" alt="Asuka package working gif" width="400">
 </Center>
 
 <br>
@@ -98,7 +102,7 @@ With few and intuitive lines of code you can have those in your project in a lot
 ## Sponsors
 
 <a href="https://fteam.dev">
-    <img src="images/sponsor-logo.png" alt="Logo" width="120" style="aspect-ratio: 1/1; border-radius: 50%">
+    <img src="readme_assets/sponsor-logo.png" alt="Logo" width="120">
   </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -247,7 +251,7 @@ Thank you to all the people who contributed to this project, whitout you this pr
 <br>
 <p align="center">
   <a href="https://www.flutterando.com.br">
-    <img width="110px" src="images/logo-flutterando.png" style="border-radius: 50%;">
+    <img width="110px" src="readme_assets/logo-flutterando.png">
   </a>
   <p align="center">
     Built and maintained by <a href="https://www.flutterando.com.br">Flutterando</a>.

@@ -8,7 +8,7 @@
 <div align="center">
   <!-- You should link the logo to the pub dev page of you project or a homepage otherwise -->
   <a href="https://pub.dev/publishers/flutterando.com.br/packages">
-    <img src="images/logo.png" alt="Logo" width="180">
+    <img src="readme_assets/logo.png" alt="Logo" width="180">
   </a>
 
   <p align="center">
@@ -70,6 +70,7 @@ Social - GitHub Forks, Github Org's Stars (if using Flutterando as the main org)
 
 <br>
 
+---
 <!-- TABLE OF CONTENTS -->
 <!-- Linked to every ## title below -->
 <details>
@@ -87,6 +88,8 @@ Social - GitHub Forks, Github Org's Stars (if using Flutterando as the main org)
   </ol>
 </details>
 
+---
+
 <br>
 
 <!-- ABOUT THE PROJECT -->
@@ -97,7 +100,7 @@ Social - GitHub Forks, Github Org's Stars (if using Flutterando as the main org)
 
 <br>
 <Center>
-<img src="images/project-image.png" alt="Project Screenshot" width="400">
+<img src="readme_assets/project-image.png" alt="Project Screenshot" width="400">
 </Center>
 
 <br>
@@ -118,7 +121,7 @@ Anything more and you should point to the official documentation of your project
 ## Sponsors
 
 <a href="https://fteam.dev">
-    <img src="images/sponsor-logo.png" alt="Logo" width="120" style="aspect-ratio: 1/1; border-radius: 50%">
+    <img src="readme_assets/sponsor-logo.png" alt="Logo" width="120">
   </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -281,7 +284,7 @@ And the link for the currently used option in this readme: https://contrib.rocks
 <br>
 <p align="center">
   <a href="https://www.flutterando.com.br">
-    <img width="110px" src="images/logo-flutterando.png" style="border-radius: 50%;">
+    <img width="110px" src="readme_assets/logo-flutterando.png">
   </a>
   <p align="center">
     Built and maintained by <a href="https://www.flutterando.com.br">Flutterando</a>.
