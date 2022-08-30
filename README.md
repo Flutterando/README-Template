@@ -10,6 +10,9 @@ If it's for the Flutterando version of the template just send a message to us (o
 -->
 
 
+  <h1 align="center">Best-README-Template - Flutterando Version</h1>
+
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -21,12 +24,10 @@ If it's for the Flutterando version of the template just send a message to us (o
   </a>
 
   <br />
-
-  <h1 align="center">Best-README-Template - Flutterando Version</h1>
-
   <p align="center">
     A Flutterando style README template to jumpstart your Flutter and Dart projects!
-    <br />
+    <br>
+    <br>
     <a href="https://github.com/Flutterando/README-Template/EXAMPLE_README.md">View Example</a>
     ·
     <a href="https://github.com/Flutterando/README-Template/issues">Report Bug</a>

@@ -70,6 +70,7 @@ Social - GitHub Forks, Github Org's Stars (if using Flutterando as the main org)
 
 <br>
 
+---
 <!-- TABLE OF CONTENTS -->
 <!-- Linked to every ## title below -->
 <details>
@@ -86,6 +87,8 @@ Social - GitHub Forks, Github Org's Stars (if using Flutterando as the main org)
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
+
+---
 
 <br>
 
