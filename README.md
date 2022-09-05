@@ -61,7 +61,7 @@ If it's for the Flutterando version of the template just send a message to us (o
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-From the many great README templates available on GitHub we chose Othneildrew's template for the Flutterando community, for it's layout and ease of use.
+From the many great README templates available on GitHub we chose Othneildrew's template as a base for the Readme used on the Flutterando community projects, because of it's layout and being ease of use.
 We modified it to be more in tune with the packages and projects from our community and to have a go-to readme when we start a new one. 
 
 Othneildrews's said this in his project, and we feel it apllies for us too:
@@ -69,7 +69,11 @@ Othneildrews's said this in his project, and we feel it apllies for us too:
 * You shouldn't be doing the same tasks over and over like creating a README from scratch
 * You should implement DRY principles to the rest of your life 😊
 
-Of course, no one template will serve all projects and this one may have more changes in the future. You may also suggest changes by forking this repo and creating a pull request.
+Of course, one template will never fit all projects, but we hope that this one can be of help to yours as it was to the Flutterando community packages. We also, as always, accept suggestions, send yours by forking this repo and creating a pull request of it.
+
+<br>
+
+<i>This project is distributed under the MIT License. See `LICENSE.txt` for more information.</i>
 
 <br>
 
@@ -83,20 +87,11 @@ Use the `BLANK_README.md` to get started. Copy it, modify it for your project an
 
 <!-- CONTRIBUTING -->
 ## Contributing
----
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. Just create a pull request with your suggestions and changes or be in contact with us through Discord or any other of the links below. 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
----
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -104,7 +99,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
----
 
 Flutterando Community
 - [Discord](https://discord.gg/qNBDHNARja)
@@ -120,7 +114,6 @@ Flutterando Community
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
----
 
 <a href="https://github.com/flutterando/README-Template/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=flutterando/README-Template" />
@@ -131,9 +124,8 @@ Flutterando Community
 <!-- MANTAINED BY -->
 ## Maintaned by
 
----
-
 <br>
+
 <p align="center">
   <a href="https://www.flutterando.com.br">
     <img width="110px" src="readme_assets/logo-flutterando.png">
