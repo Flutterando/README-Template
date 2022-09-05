@@ -18,9 +18,9 @@
     <br />
     <!-- <a href="https://link para o demo">View Demo</a> -->
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/flutterando/asuka/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/flutterando/asuka/issues">Request Feature</a>
   </p>
 
 <br>
@@ -189,14 +189,11 @@ Flutterando Community
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!----
-  TODO: Escrever as Contributing Guidelines
-->
-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements 
 
-These are the people who 
+Thank you to all the people who contributed to this project, whitout you this project would not be here today.
+
 <a href="https://github.com/flutterando/asuka/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=flutterando/asuka" />
 </a>
@@ -213,7 +210,7 @@ These are the people who
 
 <p align="center">
   <a href="https://www.flutterando.com.br">
-    <img width="110px" src="readme_assets/logo-flutterando.png">
+    <img width="110px" src="https://raw.githubusercontent.com/Flutterando/asuka/main/readme_assets/log-flutterando.png">
   </a>
   <p align="center">
     Built and maintained by <a href="https://www.flutterando.com.br">Flutterando</a>.

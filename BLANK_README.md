@@ -7,12 +7,12 @@
 <br />
 <div align="center">
   <!-- You should link the logo to the pub dev page of you project or a homepage otherwise -->
-  <a href="https://pub.dev/publishers/flutterando.com.br/packages">
-    <img src="readme_assets/logo.png" alt="Logo" width="180">
+  <a href="https://github.com/Flutterando/README-Template/">
+    <img src="https://raw.githubusercontent.com/Flutterando/README-Template/master/readme_assets/logo.png" alt="Logo" width="180">
   </a>
 
   <p align="center">
-    This project is meant to be used as a template for the Flutterando community projects. Here you can put a brief explanation of what is the project about
+    This project is meant to be used as a template for the Flutterando community projects. Here you can put a brief explanation of what your project is. The shields and some of the links point to the Asuka package or other links, as an example.
     <br />
     <!-- Put the link for the documentation here -->
     <a href="https://pub.dev/publishers/flutterando.com.br/packages"><strong>Explore the docs »</strong></a>
@@ -21,10 +21,10 @@
     <!-- Disable unused links with with comments -->
     <a href="https://pub.dev/publishers/flutterando.com.br/packages">View Demo</a>
     ·
-    <!-- The Report Bug and Request Feature should point to the issues page of the project, in this example we use the Asuka page -->
-    <a href="https://github.com/Flutterando/asuka/issues">Report Bug</a>
+    <!-- The Report Bug and Request Feature should point to the issues page of the project, in this example we use the pull requests page because this is a github template -->
+    <a href="https://github.com/Flutterando/README-Template/pulls">Report Bug</a>
     ·
-    <a href="https://github.com/Flutterando/asuka/issues">Request Feature</a>
+    <a href="https://github.com/Flutterando/README-Template/pulls">Request Feature</a>
   </p>
 
 <br>
@@ -90,7 +90,7 @@ Social - GitHub Forks, Github Org's Stars (if using Flutterando as the main org)
 
 <br>
 <Center>
-<img src="readme_assets/project-image.png" alt="Project Screenshot" width="400">
+<img src="https://raw.githubusercontent.com/Flutterando/README-Template/master/readme_assets/project-image.png" alt="Project Screenshot" width="400">
 </Center>
 
 <br>
@@ -113,7 +113,7 @@ Anything more and you should point to the official documentation of your project
 ## Sponsors
 
 <a href="https://fteam.dev">
-    <img src="readme_assets/sponsor-logo.png" alt="Logo" width="120">
+    <img src="https://raw.githubusercontent.com/Flutterando/README-Template/master/readme_assets/sponsor-logo.png" alt="Logo" width="120">
   </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -251,7 +251,7 @@ And the link for the currently used option in this readme: https://contrib.rocks
 <br>
 <p align="center">
   <a href="https://www.flutterando.com.br">
-    <img width="110px" src="readme_assets/logo-flutterando.png">
+    <img width="110px" src="https://raw.githubusercontent.com/Flutterando/README-Template/master/readme_assets/logo-flutterando.png">
   </a>
   <p align="center">
     Built and maintained by <a href="https://www.flutterando.com.br">Flutterando</a>.

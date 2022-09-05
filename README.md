@@ -17,10 +17,10 @@ If it's for the Flutterando version of the template just send a message to us (o
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="readme_assets/readme_example_assets/logo-original.png" alt="Logo" width="80" style=" padding-right: 30px;">
+    <img src="https://raw.githubusercontent.com/Flutterando/README-Template/master/readme_assets/readme_example_assets/logo-original.png" alt="Logo" width="80" style=" padding-right: 30px;">
   </a>
   <a href="https://github.com/Flutterando/README-Template/">
-    <img src="readme_assets/logo-flutterando.png" alt="Logo" width="95">
+    <img src="https://raw.githubusercontent.com/Flutterando/README-Template/master/readme_assets/logo-flutterando.png" alt="Logo" width="95">
   </a>
 
   <br />
@@ -28,7 +28,7 @@ If it's for the Flutterando version of the template just send a message to us (o
     A Flutterando style README template to jumpstart your Flutter and Dart projects!
     <br>
     <br>
-    <a href="https://github.com/Flutterando/README-Template/EXAMPLE_README.md">View Example</a>
+    <a href="https://github.com/Flutterando/README-Template/blob/master/EXAMPLE_README.md">View Example</a>
     ·
     <a href="https://github.com/Flutterando/README-Template/issues">Report Bug</a>
     ·
@@ -79,7 +79,7 @@ Of course, one template will never fit all projects, but we hope that this one c
 
 ## Usage
 
-Use the `BLANK_README.md` to get started. Copy it, modify it for your project and use the `EXAMPLE_README.md` to also guide you.
+Use the <a href=https://github.com/Flutterando/README-Template/blob/master/BLANK_README.md>`BLANK_README.md`</a> to get started. Copy it, modify it for your project and use the <a href=https://github.com/Flutterando/README-Template/blob/master/EXAMPLE_README.md>`EXAMPLE_README.md`</a> to also guide you.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,8 +90,6 @@ Use the `BLANK_README.md` to get started. Copy it, modify it for your project an
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. Just create a pull request with your suggestions and changes or be in contact with us through Discord or any other of the links below. 
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,7 +126,7 @@ Flutterando Community
 
 <p align="center">
   <a href="https://www.flutterando.com.br">
-    <img width="110px" src="readme_assets/logo-flutterando.png">
+    <img width="110px" src="https://raw.githubusercontent.com/Flutterando/README-Template/master/readme_assets/logo-flutterando.png">
   </a>
   <p align="center">
     This fork version is maintained by <a href="https://www.flutterando.com.br">Flutterando</a>.
