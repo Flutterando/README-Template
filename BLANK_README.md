@@ -1,30 +1,30 @@
 <a name="readme-top"></a>
 
 
-<h1 align="center">PROJECT TITLE - Optional: slogan/small description.</h1>
+<h1 align="center">Project Title - Optional: slogan/small description.</h1>
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <!-- You should link the logo to the pub dev page of you project or a homepage otherwise -->
-  <a href="https://pub.dev/publishers/flutterando.com.br/packages">
-    <img src="readme_assets/logo.png" alt="Logo" width="180">
+  <a href="https://github.com/Flutterando/README-Template/">
+    <img src="https://raw.githubusercontent.com/Flutterando/README-Template/master/readme_assets/logo.png" alt="Logo" width="180">
   </a>
 
   <p align="center">
-    This project is meant to be used as a template for the Flutterando community projects. Here you can put a brief explanation of what is the project about
+    This project is meant to be used as a template for the Flutterando community projects. Here you can put a brief explanation of what your project is. The shields and some of the links point to the Asuka package or other links, as an example.
     <br />
-    <!-- Put the link for the documentation here below -->
+    <!-- Put the link for the documentation here -->
     <a href="https://pub.dev/publishers/flutterando.com.br/packages"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <!-- Disable unused links with with comments -->
     <a href="https://pub.dev/publishers/flutterando.com.br/packages">View Demo</a>
     ·
-    <!-- The Report Bug and Request Feature should point to the issues page of the project, in this example we use the Asuka page -->
-    <a href="https://github.com/Flutterando/asuka/issues">Report Bug</a>
+    <!-- The Report Bug and Request Feature should point to the issues page of the project, in this example we use the pull requests page because this is a github template -->
+    <a href="https://github.com/Flutterando/README-Template/pulls">Report Bug</a>
     ·
-    <a href="https://github.com/Flutterando/asuka/issues">Request Feature</a>
+    <a href="https://github.com/Flutterando/README-Template/pulls">Request Feature</a>
   </p>
 
 <br>
@@ -37,24 +37,15 @@ See the links in the example below, changing the parts after img.shields.io you 
 
 The ones used here are:
 - Release version
-- License
-- Pub Points (there are also shields for Pub Popularity and Pub Likes)
-- Number of Contributors
-- Number of Forks --->
+- Pub Points
+- style: Flutterando analysis
+- publisher: Flutterando --->
 
 [![Version](https://img.shields.io/github/v/release/flutterando/asuka?style=plastic)](https://pub.dev/packages/asuka)
-[![License](https://img.shields.io/github/license/flutterando/asuka?style=plastic)](https://github.com/Flutterando/asuka/blob/master/LICENSE)
 [![Pub Points](https://img.shields.io/pub/points/asuka?label=pub%20points&style=plastic)](https://pub.dev/packages/asuka/score)
-[![Contributors](https://img.shields.io/github/contributors/flutterando/asuka?style=plastic)](https://github.com/Flutterando/asuka/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/flutterando/asuka?color=yellowgreen&logo=github&style=plastic)](https://github.com/Flutterando/asuka/graphs/contributors)
+[![Flutterando Analysis](https://img.shields.io/badge/style-flutterando__analysis-blueviolet?style=plastic)](https://pub.dev/packages/flutterando_analysis/)
 
-<!---- We suggest to not change the last two for Flutterando projects 
-
-- Package Publisher
-- YouTube Channel 
---->
 [![Pub Publisher](https://img.shields.io/pub/publisher/asuka?style=plastic)](https://pub.dev/publishers/flutterando.com.br/packages)
-[![Flutterando Youtube](https://img.shields.io/youtube/channel/subscribers/UCplT2lzN6MHlVHHLt6so39A?color=blue&label=Flutterando&logo=YouTube&logoColor=red&style=plastic)](https://www.youtube.com/flutterando)
 </div>
 
 <!----
@@ -82,7 +73,6 @@ Social - GitHub Forks, Github Org's Stars (if using Flutterando as the main org)
     <li><a href="#how-to-use">How to Use</a></li>
     <li><a href="#features">Features</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
@@ -100,7 +90,7 @@ Social - GitHub Forks, Github Org's Stars (if using Flutterando as the main org)
 
 <br>
 <Center>
-<img src="readme_assets/project-image.png" alt="Project Screenshot" width="400">
+<img src="https://raw.githubusercontent.com/Flutterando/README-Template/master/readme_assets/project-image.png" alt="Project Screenshot" width="400">
 </Center>
 
 <br>
@@ -113,6 +103,8 @@ Be aware that you need to be direct, since this Readme is oriented to guide rath
 
 Anything more and you should point to the official documentation of your project.
 
+<i>This project is distributed under the MIT License. See `LICENSE.txt` for more information.
+</i>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,7 +113,7 @@ Anything more and you should point to the official documentation of your project
 ## Sponsors
 
 <a href="https://fteam.dev">
-    <img src="readme_assets/sponsor-logo.png" alt="Logo" width="120">
+    <img src="https://raw.githubusercontent.com/Flutterando/README-Template/master/readme_assets/sponsor-logo.png" alt="Logo" width="120">
   </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -161,22 +153,10 @@ MaterialApp(
     builder: YourPackage.builder,
     navigatorObservers: [
        YourPackage.packageController 
-       //Include observations for your users when it's an important point in the usage
+       //Include observations for your users when you this is important to point something out
     ],
 );
 ``` 
-Now you just have to call the named constructors for each widget that you want to use: 
-
-```dart
-import 'package:your_package/your_package.dart';
-
-YourPackage.doesSomething(
-    content: Text("Hello World"),
-);
-
-YourPackage.success("success").show();
-```
-
 <br>
 
 _For more examples, please refer to the_ [Documentation]() 
@@ -187,7 +167,7 @@ _For more examples, please refer to the_ [Documentation]()
 
 <!-- FEATURES -->
 
-<!---- Use this section to highlight your features and show  what is under progress. Use emojis for better communication if needed ---->
+<!---- Use this section to highlight your features and show  what is under progress. Use emojis for better communication if needed like ✅ for tasks done and 🚧 for Work In Progress ---->
 ## Features
 
 - ✅ Main Feature
@@ -210,7 +190,7 @@ Right now this package has concluded all his intended features. If you have any 
 <!-- CONTRIBUTING -->
 ## Contributing
  
-🚧 [Contributing Guidelines]() - _Currently being updated_ 🚧
+🚧 [Contributing Guidelines]() - _Work in Progress_ 🚧
 <!---- Flutterando Contributing Guidelines are currently a work in progress.
 We recommend to keep the text below the way it is. 
  --->
@@ -229,17 +209,6 @@ Don't forget to give the project a star! Thanks again!
 Remember to include a tag, and to follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) and [Semantic Versioning](https://semver.org/) when uploading your commit and/or creating the issue. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 
@@ -279,12 +248,10 @@ And the link for the currently used option in this readme: https://contrib.rocks
 <!-- MANTAINED BY -->
 ## Maintaned by
 
----
-
 <br>
 <p align="center">
   <a href="https://www.flutterando.com.br">
-    <img width="110px" src="readme_assets/logo-flutterando.png">
+    <img width="110px" src="https://raw.githubusercontent.com/Flutterando/README-Template/master/readme_assets/logo-flutterando.png">
   </a>
   <p align="center">
     Built and maintained by <a href="https://www.flutterando.com.br">Flutterando</a>.

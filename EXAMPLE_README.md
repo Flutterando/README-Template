@@ -11,20 +11,16 @@
   </a>
 
   <p align="center">
-   <b>
-   THIS IS AN EXAMPLE OF A README USING THIS TEMPLATE, YOU CAN CHECK THIS PROJECT <a href="https://pub.dev/packages/asuka">HERE</a>
-   </b>
-   <br />
-    A Simple and Clean approach to Snackbars, Dialogs and ModalSheets in a single provider.
+    A Simple and Clean approach to Snackbars, Dialogs, ModalSheets and more in a single provider.
     <br />
-    <!-- <a href="https://link da documentação"><strong>Explore the docs »</strong></a>
-    <br /> -->
+    <a href="https://pub.dev/documentation/asuka/latest/"><strong>Explore the docs »</strong></a>
+    <br />
     <br />
     <!-- <a href="https://link para o demo">View Demo</a> -->
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/flutterando/asuka/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/flutterando/asuka/issues">Request Feature</a>
   </p>
 
 <br>
@@ -32,31 +28,15 @@
 <!--  SHIELDS  ---->
 
 [![Version](https://img.shields.io/github/v/release/flutterando/asuka?style=plastic)](https://pub.dev/packages/asuka)
-[![License](https://img.shields.io/github/license/flutterando/asuka?style=plastic)](https://github.com/Flutterando/asuka/blob/master/LICENSE)
 [![Pub Points](https://img.shields.io/pub/points/asuka?label=pub%20points&style=plastic)](https://pub.dev/packages/asuka/score)
-[![Contributors](https://img.shields.io/github/contributors/flutterando/asuka?style=plastic)](https://github.com/Flutterando/asuka/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/flutterando/asuka?color=yellowgreen&logo=github&style=plastic)](https://github.com/Flutterando/asuka/graphs/contributors)
-
+[![Flutterando Analysis](https://img.shields.io/badge/style-flutterando__analysis-blueviolet?style=plastic)](https://pub.dev/packages/flutterando_analysis/)
 
 [![Pub Publisher](https://img.shields.io/pub/publisher/asuka?style=plastic)](https://pub.dev/publishers/flutterando.com.br/packages)
-[![Flutterando Youtube](https://img.shields.io/youtube/channel/subscribers/UCplT2lzN6MHlVHHLt6so39A?color=blue&label=Flutterando&logo=YouTube&logoColor=red&style=plastic)](https://www.youtube.com/flutterando)
 </div>
 
-<!----
-About Shields, some recommendations:
-+-+
-Build - GithubWorkflow ou Github Commit checks state
-CodeCoverage - Codecov
-Chat - Discord 
-License - Github
-Rating - Pub Likes, Pub Points and Pub Popularity (if still in early stages, we 		    recommend only Pub Points since it's controllable)
-Social - GitHub Forks, Github Org's Stars (if using Flutterando as the main org),  	    YouTube Channel Subscribers (Again, using Flutterando, as set in the   		    example)
---->
 
 <br>
 
-
---- 
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -67,13 +47,10 @@ Social - GitHub Forks, Github Org's Stars (if using Flutterando as the main org)
     <li><a href="#how-to-use">How to Use</a></li>
     <li><a href="#features">Features</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
-
----
 
 <br>
 
@@ -93,8 +70,9 @@ Social - GitHub Forks, Github Org's Stars (if using Flutterando as the main org)
 <!-- PROJECT DESCRIPTION -->
 
 Asuka is a Dart package that aims to simplify and keep a clean approach when implementing some visual elements from Flutter like Snackbars, Dialogs and ModalSheets. 
-With few and intuitive lines of code you can have those in your project in a lot less time than  
+With few and intuitive lines of code you can have those in your project without the hassle of having to code them from scratch, while having the option of quickly removing them if need be. 
 
+<i> This project is distributed under the MIT License. See `LICENSE.txt` for more information.</i>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -156,7 +134,7 @@ AsukaSnackbar.success("success").show();
 
 <br>
 
-_For more examples, please refer to the_ 🚧 [Documentation]() _-Currently being updated-_ 🚧
+_For more examples, please refer to the_ [Documentation](https://pub.dev/documentation/asuka/latest/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -181,7 +159,7 @@ Right now this package has concluded all his intended features. If you have any 
 <!-- CONTRIBUTING -->
 ## Contributing
  
-🚧 [Contributing Guidelines]() - _Currently being updated_ 🚧
+<!-- 🚧 [Contributing Guidelines]() - _Work in Progress_ 🚧 -->
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -198,17 +176,6 @@ Remember to include a tag, and to follow [Conventional Commits](https://www.conv
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- CONTACT -->
 ## Contact
 
@@ -222,17 +189,10 @@ Flutterando Community
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!----
-  TODO: Escrever as Contributing Guidelines
-->
-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements 
 
-
 Thank you to all the people who contributed to this project, whitout you this project would not be here today.
-
-<br>
 
 <a href="https://github.com/flutterando/asuka/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=flutterando/asuka" />
@@ -246,12 +206,11 @@ Thank you to all the people who contributed to this project, whitout you this pr
 <!-- MANTAINED BY -->
 ## Maintaned by
 
----
-
 <br>
+
 <p align="center">
   <a href="https://www.flutterando.com.br">
-    <img width="110px" src="readme_assets/logo-flutterando.png">
+    <img width="110px" src="https://raw.githubusercontent.com/Flutterando/asuka/main/readme_assets/log-flutterando.png">
   </a>
   <p align="center">
     Built and maintained by <a href="https://www.flutterando.com.br">Flutterando</a>.
