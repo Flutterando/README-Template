@@ -25,7 +25,7 @@ If it's for the Flutterando version of the template just send a message to us (o
 
   <br />
   <p align="center">
-    A Flutterando style README template to jumpstart your Flutter and Dart projects!
+    A Flutterando style README template for the community's projects and packages. It is open and free to use in your projects too! 
     <br>
     <br>
     <a href="https://github.com/Flutterando/README-Template/blob/master/EXAMPLE_README.md">View Example</a>
@@ -61,10 +61,10 @@ If it's for the Flutterando version of the template just send a message to us (o
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-From the many great README templates available on GitHub we chose Othneildrew's template as a base for the Readme used on the Flutterando community projects, because of it's layout and being ease of use.
-We modified it to be more in tune with the packages and projects from our community and to have a go-to readme when we start a new one. 
+From the many great README templates available on GitHub we chose Othneildrew's template as a base for the Readme used on the Flutterando community projects, because of it's layout and it being easy to implement.
+We modified it to be more in tune with the packages and projects of our community and to have a go-to readme when we start something new. 
 
-Othneildrews's said this in his project, and we feel it apllies for us too:
+Othneildrews's said this in his project, and we feel it apllies for us too when it comes to writing your Readme for a project:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
 * You shouldn't be doing the same tasks over and over like creating a README from scratch
 * You should implement DRY principles to the rest of your life 😊
