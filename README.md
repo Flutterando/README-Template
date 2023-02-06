@@ -86,10 +86,49 @@ Use the <a href=https://github.com/Flutterando/README-Template/blob/master/BLANK
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## 🧑‍💻 Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. Just create a pull request with your suggestions and changes or be in contact with us through Discord or any other of the links below. 
 
+In addition to writing code, there are many ways for you to contribue.
+
+You can contribute as following:
+- Join and modify translations in our [Crowdin Translation Project](https://crowdin.com/project/apitablecode/invite?h=f48bc26f9eb188dcd92d5eb4a66f2c1f1555185)
+- Create [Issues](https://github.com/flutterando-readme-template/flutterando-readme-template/issues/new/choose)
+- Create [Documentation](./docs)
+- [Contributing Code](./docs/contribute/developer-guide.md)
+
+
+You can read this repository’s [Contributing Guidelines](./CONTRIBUTING.md) to learn how to contribute.
+
+Here's a quick guide to help you contribute to Flutterando.
+
+
+### Development environment
+
+Learn how to set up your local environment, go to our [Developer Guide](./docs/contribute/developer-guide.md).
+
+### Git workflow basic
+
+Here's a general APITable git workflow:
+
+1. Create an issue and describe features you want -> [flutterando-readme-template issues](https://github.com/flutterando-readme-template/flutterando-readme-template/issues)
+2. Fork this project -> [Fork flutterando-readme project](https://github.com/flutterando-readme-template/flutterando-readme-template/fork)
+3. Create your feature branch (`git checkout -b my-new-feature`)
+4. Commit your changes (`git commit -am 'Add some features'`)
+5. Publish the branch (`git push origin my-new-feature`)
+6. Create a new Pull Request -> [Create pull request across forks](https://github.com/flutterando-readme-template/flutterando-readme-template/compare)
+
+### Work conventions
+
+APITable use these common conventions:
+
+- What's our Git branching model? [Gitflow](https://nvie.com/posts/a-successful-git-branching-model/)
+- How to collaborate on your fork projects? [Github Flow](https://docs.github.com/en/get-started/quickstart/github-flow)
+- How to write good commit message? [Conventional Commits](https://www.conventionalcommits.org/)
+- What's our changelog format? [Keep Changelog](https://keepachangelog.com/en/1.0.0/)
+- How to versioning and tagging? [Semantic Versioning](https://semver.org/)
+- What is the Dart Coding Guideline? -> [Dart Style Guide](https://dart.dev/guides/language/effective-dart#the-guides) | [flutterando_analysis](https://pub.dev/packages/flutterando_analysis)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
