@@ -59,7 +59,7 @@ If it's for the Flutterando version of the template just send a message to us (o
 <br>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## :memo: About The Project
 
 From the many great README templates available on GitHub we chose Othneildrew's template as a base for the Readme used on the Flutterando community projects, because of it's layout and it being easy to implement.
 We modified it to be more in tune with the packages and projects of our community and to have a go-to readme when we start something new. 
@@ -135,7 +135,7 @@ APITable use these common conventions:
 <br>
 
 <!-- CONTACT -->
-## Contact
+## 💬Contact
 
 Flutterando Community
 - [Discord](https://discord.gg/qNBDHNARja)
@@ -149,8 +149,8 @@ Flutterando Community
 
 <br>
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- CONTRIBUTORS -->
+## Contributors
 
 <a href="https://github.com/flutterando/README-Template/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=flutterando/README-Template" />
