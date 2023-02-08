@@ -135,7 +135,7 @@ APITable use these common conventions:
 <br>
 
 <!-- CONTACT -->
-## 💬Contact
+## 💬 Contact
 
 Flutterando Community
 - [Discord](https://discord.gg/qNBDHNARja)
@@ -150,7 +150,7 @@ Flutterando Community
 <br>
 
 <!-- CONTRIBUTORS -->
-## Contributors
+## 👥 Contributors
 
 <a href="https://github.com/flutterando/README-Template/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=flutterando/README-Template" />
@@ -159,7 +159,7 @@ Flutterando Community
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MANTAINED BY -->
-## Maintaned by
+## 🛠️ Maintaned by
 
 <br>
 
