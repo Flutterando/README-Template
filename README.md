@@ -77,7 +77,7 @@ Of course, one template will never fit all projects, but we hope that this one c
 
 <br>
 
-## Usage
+## ✨ Usage
 
 Use the <a href=https://github.com/Flutterando/README-Template/blob/master/BLANK_README.md>`BLANK_README.md`</a> to get started. Copy it, modify it for your project and use the <a href=https://github.com/Flutterando/README-Template/blob/master/EXAMPLE_README.md>`EXAMPLE_README.md`</a> to also guide you.
 
